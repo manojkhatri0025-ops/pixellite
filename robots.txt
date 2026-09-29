@@ -1,0 +1,5 @@
+# Crawlers read robots.txt at the domain root, not a project subdirectory.
+User-agent: *
+Allow: /
+
+Sitemap: https://manojkhatri.name.np/pixellite/sitemap.xml
